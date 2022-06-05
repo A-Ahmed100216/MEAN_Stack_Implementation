@@ -25,7 +25,6 @@ A MEAN stack deployment consists of the following:
     * RResponsible for translation, encryption, and compression of data. 
     * Ensures data is in usable format
     * Where data encryption occurs
-    * 
 * 5 - Session Layer
     * Maintains connection - opens and closes communication between two devices. 
     * Controls ports and sessions 
