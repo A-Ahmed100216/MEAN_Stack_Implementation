@@ -1,5 +1,7 @@
 # Project 4 - MEAN Stack Implementation 
 
+**[Project Implementation]**(https://github.com/A-Ahmed100216/MEAN_Stack_Implementation/blob/main/Project.md)
+
 A MEAN stack deployment consists of the following:
 * **M**ongoDB - Database
 * **E**xpress - Back-end  framework
@@ -44,6 +46,7 @@ A MEAN stack deployment consists of the following:
     * Transmits raw bit stream over the physical medium 
     * Includes the physical equipment i.e. cables and switches. 
 
+![OSI Model](/images/OSI_model.png)
 
 # Load Balancing 
 * Process of distributing network traffic across multiple servers. 
@@ -53,5 +56,5 @@ A MEAN stack deployment consists of the following:
 
 
 # References:
+[AVI Networks](https://avinetworks.com/what-is-load-balancing/)     
 [Cloudflare](https://www.cloudflare.com/en-gb/learning/ddos/glossary/open-systems-interconnection-model-osi/)
-[AVI Networks](https://avinetworks.com/what-is-load-balancing/)
