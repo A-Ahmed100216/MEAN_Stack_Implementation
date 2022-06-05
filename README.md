@@ -1,6 +1,6 @@
 # Project 4 - MEAN Stack Implementation 
 
-**[Project Implementation]**(https://github.com/A-Ahmed100216/MEAN_Stack_Implementation/blob/main/Project.md)
+**[Project Implementation](https://github.com/A-Ahmed100216/MEAN_Stack_Implementation/blob/main/Project.md)**
 
 A MEAN stack deployment consists of the following:
 * **M**ongoDB - Database
